@@ -1,2 +1,6 @@
-for i in range(50,0,-5):
+
+from builtins import print
+
+for i in range(50, 0, -5):
       print(i)
+
